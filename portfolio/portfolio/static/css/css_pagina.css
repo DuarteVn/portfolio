@@ -21,10 +21,11 @@ p {
     color: white;
 }
 
-img {
+/* img {
     border-radius:100px;
     border-color:black
-}
+} */
+
 .titulosVerdes {
     text-decoration: underline;
     text-underline-position: under;
